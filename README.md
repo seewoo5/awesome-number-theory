@@ -36,7 +36,7 @@ Includes proof of local/global class field theory.
 
 <details>
 <summary>David Cox - Primes of the form $x^2 + ny^2$ (Fermat, Class Field Theory, and Complex Multiplication) </summary>
-Classicial approach rather than modern adelic approach. Goal is to understand 
+Classicial approach rather than modern adelic approach. It is less formal, but provides motivation.
 </details>
 
 
@@ -66,5 +66,9 @@ Last chapters are devoted to (simple, relative) trace formulae with related topi
 ## Arithmetic Geometry
 
 
-## Miscs
+## Misc
 
+<details>
+<summary>Anthony Vasaturo - [Fermat's Last Theorem](https://youtube.com/playlist?list=PLK-gFjlmrFy7kbHJ7uOmawNTPz9Hea1vp)</summary>
+Ongoing youtube series that aims to explain the proof of FLT.
+</details>
