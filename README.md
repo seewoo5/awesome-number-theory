@@ -69,6 +69,6 @@ Last chapters are devoted to (simple, relative) trace formulae with related topi
 ## Misc
 
 <details>
-<summary>Anthony Vasaturo - [Fermat's Last Theorem](https://youtube.com/playlist?list=PLK-gFjlmrFy7kbHJ7uOmawNTPz9Hea1vp)</summary>
+<summary>Anthony Vasaturo - <a href="https://youtube.com/playlist?list=PLK-gFjlmrFy7kbHJ7uOmawNTPz9Hea1vp">Fermat's Last Theorem</a></summary>
 Ongoing youtube series that aims to explain the proof of FLT.
 </details>
