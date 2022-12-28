@@ -7,12 +7,14 @@ A list of awesome number theory resources
 ## Elementary Number Theory
 
 <details>
-<summary>Richard E. Borcherds - [Introduction to number theory](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)</summary>
+<summary>Richard E. Borcherds - <a href="https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8">Introduction to number theory</a></summary>
 Detailed and insightful introduction.
 </details>
 
+
+
 <details>
-<summary>Michael Penn - [Number Theory v2](https://www.youtube.com/playlist?list=PL22w63XsKjqwn2V9CiP7cuSGv9plj71vv)</summary>
+<summary>Michael Penn - <a href="https://www.youtube.com/playlist?list=PL22w63XsKjqwn2V9CiP7cuSGv9plj71vv">Number Theory v2</a></summary>
 Easy to digest and fast introduction.
 </details>
 
@@ -77,6 +79,10 @@ Modern aspects of automorphic forms and representations, beyond $\mathrm{GL}_2$.
 Last chapters are devoted to (simple, relative) trace formulae with related topics.
 </details>
 
+<details>
+<summary>Neal Koblitz - Introduction to Elliptic Curves and Modular Forms</summary>
+Toward the theory of half-integral modular forms, Shimura correspondence, Waldspurger's formula and Tunnell's theorem on congruent numbers.
+</details>
 
 ## Iwasawa Theory
 
@@ -89,4 +95,14 @@ Last chapters are devoted to (simple, relative) trace formulae with related topi
 <details>
 <summary>Anthony Vasaturo - <a href="https://youtube.com/playlist?list=PLK-gFjlmrFy7kbHJ7uOmawNTPz9Hea1vp">Fermat's Last Theorem</a></summary>
 Ongoing youtube series that aims to explain the proof of FLT.
+</details>
+
+<details>
+<summary><a href="https://ctnt-summer.math.uconn.edu/schedules-and-abstracts-2020-online/">Connecticut Summer School in Number Theory</a></summary>
+Provide nice lectures on various topics in number theory.
+</details>
+
+<details>
+<summary><a href="https://swc-math.github.io/">Arizona Winter School</a></summary>
+Annual winter school held at University of Arizona. All the lecture notes, videos, and exercises for the previous schools can be found.
 </details>
