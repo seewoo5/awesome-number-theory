@@ -4,6 +4,19 @@ A list of awesome number theory resources
 
 
 
+## Elementary Number Theory
+
+<details>
+<summary>Richard E. Borcherds - [Introduction to number theory](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)</summary>
+Detailed and insightful introduction.
+</details>
+
+<details>
+<summary>Michael Penn - [Number Theory v2](https://www.youtube.com/playlist?list=PL22w63XsKjqwn2V9CiP7cuSGv9plj71vv)</summary>
+Easy to digest and fast introduction.
+</details>
+
+
 ## Algebraic Number Theory
 
 <details>
