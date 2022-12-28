@@ -39,6 +39,11 @@ Includes proof of local/global class field theory.
 Classicial approach rather than modern adelic approach. Goal is to understand 
 </details>
 
+<details>
+<summary>Jürgen Neukirch - Class Field Theory </summary>
+Cohomology of finite fields. Relatively comprehensive. 
+</details>
+
 
 
 ## Automorphic Forms and Representations
