@@ -84,6 +84,12 @@ Last chapters are devoted to (simple, relative) trace formulae with related topi
 Toward the theory of half-integral modular forms, Shimura correspondence, Waldspurger's formula and Tunnell's theorem on congruent numbers.
 </details>
 
+<details>
+<summary>Larry Rolen - <a href="https://math.vanderbilt.edu/rolenl/ModularForms.html">Modular Forms: Theory and Applications</a></summary>
+Lectures at Vanderbilt University. Covers various topics related to modular forms.
+</details>
+
+
 ## Iwasawa Theory
 
 
