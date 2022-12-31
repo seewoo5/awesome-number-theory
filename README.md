@@ -11,8 +11,6 @@ A list of awesome number theory resources
 Detailed and insightful introduction.
 </details>
 
-
-
 <details>
 <summary>Michael Penn - <a href="https://www.youtube.com/playlist?list=PL22w63XsKjqwn2V9CiP7cuSGv9plj71vv">Number Theory v2</a></summary>
 Easy to digest and fast introduction.
@@ -29,6 +27,16 @@ The most famous algebraic number theory textbook.
 <details>
 <summary>Daniel Marcus - Number Fields</summary>
 A lot of exercises.
+</details>
+
+<details>
+<summary>Jean-Pierre Serre - Local Fields</summary>
+Concentrates on local theory. Towards local class field theory.
+</details>
+
+<details>
+<summary>James Milne - Algebraic Number Theory</summary>
+Easy to read. Include solutions to exercises.
 </details>
 
 
@@ -81,7 +89,12 @@ Last chapters are devoted to (simple, relative) trace formulae with related topi
 
 <details>
 <summary>Neal Koblitz - Introduction to Elliptic Curves and Modular Forms</summary>
-Toward the theory of half-integral modular forms, Shimura correspondence, Waldspurger's formula and Tunnell's theorem on congruent numbers.
+Towards the theory of half-integral weight modular forms, Shimura correspondence, Waldspurger's formula and Tunnell's theorem on congruent numbers.
+</details>
+
+<details>
+<summary>Fred Diamond, Jerry Shurman - A First Course in Modular Forms</summary>
+Goal of the book is to understand the statement of Wiles' modularity theorem.
 </details>
 
 <details>
@@ -90,13 +103,48 @@ Lectures at Vanderbilt University. Covers various topics related to modular form
 </details>
 
 
-## Iwasawa Theory
-
 
 ## Arithmetic Geometry
 
+<details>
+<summary>Joseph Silverman - The Arithmetic of Elliptic Curves</summary>
+The most famous introductory textbook on elliptic curves. A bit of applications on cryptography included.
+</details>
+
+<details>
+<summary>Joseph Silverman - Advanced Topics in the Arithmetic of Elliptic Curves</summary>
+Volume 2 of Silverman's book. Include various topics that are not in the volume 1: elliptic and modular functions, CM elliptic curves, Neron models, Tate's algorithm, etc.
+</details>
+
+<details>
+<summary>Joseph Silverman, Marc Hindry - Diophantine Geometry</summary>
+Towards the proof of Faltings' theorem.
+</details>
+
+<details>
+<summary>James Milne - Elliptic Curves</summary>
+Nicely written. Introductory textbook.
+</details>
+
+
+## Galois Representations
+
+
+## Iwasawa Theory
+
+
 
 ## Misc
+
+<details>
+<summary>Cornell et al. - Modular Forms and Fermat's Last Theorem</summary>
+Series of articles explaning the details of the proof of Fermat's Last Theorem.
+</details>
+
+<details>
+<summary><a href=https://kconrad.math.uconn.edu/blurbs/>Keith Conrad's expository papers</a></summary>
+Tons of notes on various topics. Especially there are many useful notes on number theory written explicitly.
+</details>
 
 <details>
 <summary>Anthony Vasaturo - <a href="https://youtube.com/playlist?list=PLK-gFjlmrFy7kbHJ7uOmawNTPz9Hea1vp">Fermat's Last Theorem</a></summary>
